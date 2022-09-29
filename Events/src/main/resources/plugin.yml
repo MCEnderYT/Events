@@ -1,0 +1,5 @@
+name: Events
+version: '${project.version}'
+main: de.godpvp.events.Events
+api-version: 1.16
+authors: [ MC_EnderYT, Max_Craft10, VMax123 ]
